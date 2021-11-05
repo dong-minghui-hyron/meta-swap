@@ -1,16 +1,17 @@
 <template>
   <div class="transictionWrap">
-     <Selection />
+     <Airdrop />
   </div>
 </template>
 
 <script>
 
-import Selection from './selection.vue'
+// import Selection from './selection.vue'
+import Airdrop from './airdrop.vue'
 export default {
 name:"Transiction",
   components: {
-    Selection,
+    Airdrop,
   },
   data() {
     return {

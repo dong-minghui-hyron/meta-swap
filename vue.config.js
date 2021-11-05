@@ -70,7 +70,7 @@ module.exports={
           },
         hot:true,
         hotOnly:true,
-        host:'',
+        host:"test.mcswap.com",
         port:443,
         https: true,
         disableHostCheck: true,

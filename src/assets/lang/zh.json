@@ -19,7 +19,7 @@
     "estimeted":"(预估)",
     "metaCoinExchange":"MC兑换站",
     "swap":"兑换",
-    "input":"请输入兑换数量",
+    "input":"请输入发送数量",
     "isLogin":"请登录后再进行操作",
     "swapFail":"MC余额不足！兑换失败",
     "bsvAmountEnough":"BSV余额不足",
@@ -29,5 +29,7 @@
     "slice":"滑点容忍值",
     "swapFails":"网络出错了!",
     "loginStatusLost":"登录状态丢失，请刷新页面后重试",
-    "changeFeeNotEnought":"此次交易所需项目总费用不足,无法继续兑换"
+    "changeFeeNotEnought":"此次交易所需项目总费用不足,无法继续兑换",
+	"inputAddress":"请输入目标地址",
+	"send":"发送"
 }

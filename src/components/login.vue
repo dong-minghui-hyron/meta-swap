@@ -1,14 +1,9 @@
 <template>
   <div class="headerWrap">
     <div class="band">
-      <img src="../assets/image/logo_mcswap@2x.png" alt="" />
-      <span>{{ $t("metaCoinExchange") }}</span>
+      <span>{{ $t("SZLA") }}</span>
     </div>
     <div class="headerRight">
-      <div class="lang" @click.stop="traggleLang">
-        <span>{{ lang === "zh" ? "CN" : "EN" }}</span>
-        <img src="../assets/image/arrowBottom.png" alt="" />
-      </div>
       <van-button
         plain
         type="primary"

@@ -29,5 +29,7 @@
     "slice":"Slippage tolerance",
     "swapFails":"There's something wrong with the network!",
     "loginStatusLost":"The login status is lost. Refresh the page and try again",
-    "changeFeeNotEnought":"The total cost of the items required for this transaction is insufficient and cannot be exchanged"
+    "changeFeeNotEnought":"The total cost of the items required for this transaction is insufficient and cannot be exchanged",
+	"inputAddress":"Please input address",
+	"send":"send"
 }
